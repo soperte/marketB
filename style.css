@@ -42,10 +42,10 @@
 }
 
 #myTable thead{
-    background-color: red;
+    background-color: rgb(132, 132, 201);
 }
 
 #myTable tr:hover {
-    background-color: black;
+    background-color: green;
     color: white;
 }
